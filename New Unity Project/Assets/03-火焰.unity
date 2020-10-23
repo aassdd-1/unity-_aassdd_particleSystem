@@ -290,8 +290,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 309765133}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalRotation: {x: 0.1000405, y: -0.8811235, z: 0.21562582, w: 0.4088017}
+  m_LocalPosition: {x: 7.7507334, y: 5.408537, z: -0.26853943}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -5156,7 +5156,7 @@ GameObject:
   - component: {fileID: 1593465799}
   - component: {fileID: 1593465802}
   m_Layer: 0
-  m_Name: Particle System
+  m_Name: "\u706B\u7130"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5309,8 +5309,8 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 0.1
-      minScalar: 0.05
+      scalar: 0.2
+      minScalar: 0.1
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -9970,7 +9970,7 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: 79befe30771afe842b9504486853ca3e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.483
+      value: -0.69
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 79befe30771afe842b9504486853ca3e,
         type: 3}
@@ -9980,7 +9980,7 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: 79befe30771afe842b9504486853ca3e,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -10.824
+      value: -10.32
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 79befe30771afe842b9504486853ca3e,
         type: 3}
@@ -10025,17 +10025,17 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: 79befe30771afe842b9504486853ca3e,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 19.051767
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 79befe30771afe842b9504486853ca3e,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 19.051767
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 79befe30771afe842b9504486853ca3e,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 19.051767
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: -927199367670048503, guid: 79befe30771afe842b9504486853ca3e,
         type: 3}
